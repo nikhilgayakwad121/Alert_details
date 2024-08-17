@@ -9,3 +9,5 @@ icims - https://careers.icims.com/careers-home/jobs
 iqvia - https://jobs.iqvia.com/en/search-jobs/India/24443/2/1269750/22/79/50/2
 
 fyers - https://recruit.fyers.in/jobs/Careers
+
+Flexera - https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e
