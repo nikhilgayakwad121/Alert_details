@@ -7,3 +7,5 @@ Diligent - https://job-boards.greenhouse.io/diligentcorporation?offices%5B%5D=40
 icims - https://careers.icims.com/careers-home/jobs
 
 iqvia - https://jobs.iqvia.com/en/search-jobs/India/24443/2/1269750/22/79/50/2
+
+fyers - https://recruit.fyers.in/jobs/Careers
