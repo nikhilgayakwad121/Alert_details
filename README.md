@@ -1,6 +1,6 @@
 # Company-Careers-Page
 
-Cisco - https://jobs.cisco.com/jobs/SearchJobs/?source=Cisco+Jobs+Career+Site&tags=CDC+Browse+all+jobs+careers
+Cisco - https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B207928%5D&21178_format=6020&listFilterMode=1
 
 Diligent - https://job-boards.greenhouse.io/diligentcorporation?offices%5B%5D=4023194004
 
