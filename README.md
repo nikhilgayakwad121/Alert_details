@@ -7,6 +7,8 @@ Cisco - https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B207928%5D&21178_format=
 
 # Company-Careers-Page
 
+eightfold - https://app.eightfold.ai/careers?start=0&location=india&pid=68744096803&sort_by=match&filter_include_remote=1
+
 Diligent - https://job-boards.greenhouse.io/diligentcorporation?offices%5B%5D=4023194004
 
 icims - https://careers.icims.com/careers-home/jobs
