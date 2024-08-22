@@ -35,3 +35,7 @@ Netapp - https://careers.netapp.com/search-jobs/India?orgIds=27600&alp=1269750&a
 verizon = https://mycareer.verizon.com/jobs/?country=India&pagesize=20#results
 
 pinkerton - https://pinkerton.com/careers/current-openings
+
+Qualcomm - https://app.eightfold.ai/careers?location=India&pid=446701230261&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true
+
+
