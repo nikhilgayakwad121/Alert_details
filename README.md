@@ -23,3 +23,5 @@ shipthis - https://shipthis.keka.com/careers/
 Netapp - https://careers.netapp.com/search-jobs/India?orgIds=27600&alp=1269750&alt=2
 
 verizon = https://mycareer.verizon.com/jobs/?country=India&pagesize=20#results
+
+pinkerton - https://pinkerton.com/careers/current-openings
