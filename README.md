@@ -12,6 +12,8 @@ stripe - https://stripe.com/jobs/search?remote_locations=Asia+Pacific--India+Rem
 
 # Company-Careers-Page
 
+stryker - https://careers.stryker.com/jobs?location_name=India&location_type=4&filter%5Bcountry%5D%5B0%5D=India&page_number=1
+
 eightfold - https://app.eightfold.ai/careers?start=0&location=india&pid=68744096803&sort_by=match&filter_include_remote=1
 
 Diligent - https://job-boards.greenhouse.io/diligentcorporation?offices%5B%5D=4023194004
