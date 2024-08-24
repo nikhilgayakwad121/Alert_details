@@ -7,6 +7,7 @@ Cisco - https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B207928%5D&21178_format=
 
 stripe - https://stripe.com/jobs/search?remote_locations=Asia+Pacific--India+Remote&office_locations=Asia+Pacific--Bengaluru
 
+Qualcomm - https://app.eightfold.ai/careers?location=India&pid=446701230261&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -40,6 +41,5 @@ verizon = https://mycareer.verizon.com/jobs/?country=India&pagesize=20#results
 
 pinkerton - https://pinkerton.com/careers/current-openings
 
-Qualcomm - https://app.eightfold.ai/careers?location=India&pid=446701230261&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true
-
+toplyne - https://www.toplyne.io/join-us#Open-jobs-ashby
 
