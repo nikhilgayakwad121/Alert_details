@@ -52,3 +52,5 @@ pinkerton - https://pinkerton.com/careers/current-openings
 
 toplyne - https://www.toplyne.io/join-us#Open-jobs-ashby
 
+scrut = https://scrut.freshteam.com/jobs?location=[]&department=[%222611%22]&jobType=[]&title=&isRemoteLocation=false
+
