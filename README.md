@@ -1,10 +1,10 @@
 # MAANG-Company-Careers-Page
 
 Google - https://www.google.com/about/careers/applications/jobs/results?location=India
-Apple - https://jobs.apple.com/en-in/search?location=india-INDC
 
 Apple - https://jobs.apple.com/en-in/search?location=india-INDC
-Apple - https://jobs.apple
+
+
 ------------------------------------------------------------------------------------------------------------------------------
 # Premium-Company-Careers-Page
 
