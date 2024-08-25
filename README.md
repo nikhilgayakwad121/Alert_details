@@ -5,6 +5,8 @@
 
 Cisco - https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B207928%5D&21178_format=6020&listFilterMode=1
 
+Flipkart - https://www.flipkartcareers.com/#!/joblist
+
 stripe - https://stripe.com/jobs/search?remote_locations=Asia+Pacific--India+Remote&office_locations=Asia+Pacific--Bengaluru
 
 Qualcomm - https://app.eightfold.ai/careers?location=India&pid=446701230261&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true
