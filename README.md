@@ -12,6 +12,8 @@ Flipkart - https://www.flipkartcareers.com/#!/joblist
 
 stripe - https://stripe.com/jobs/search?remote_locations=Asia+Pacific--India+Remote&office_locations=Asia+Pacific--Bengaluru
 
+Dell - https://jobs.dell.com/en/search-jobs
+
 Qualcomm - https://app.eightfold.ai/careers?location=India&pid=446701230261&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true
 
 ------------------------------------------------------------------------------------------------------------------------------
