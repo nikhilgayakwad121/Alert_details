@@ -22,6 +22,8 @@ Qualcomm - https://app.eightfold.ai/careers?location=India&pid=446701230261&doma
 
 # Company-Careers-Page
 
+CHUBB - https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions?lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000467203&sortBy=POSTING_DATES_DESC
+
 stryker - https://careers.stryker.com/jobs?location_name=India&location_type=4&filter%5Bcountry%5D%5B0%5D=India&page_number=1
 
 eightfold - https://app.eightfold.ai/careers?start=0&location=india&pid=68744096803&sort_by=match&filter_include_remote=1
