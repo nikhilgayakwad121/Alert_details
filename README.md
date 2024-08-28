@@ -22,6 +22,8 @@ Qualcomm - https://app.eightfold.ai/careers?location=India&pid=446701230261&doma
 
 # Company-Careers-Page
 
+LIV https://ltv.applytojob.com/apply/
+
 commerceiq - https://job-boards.greenhouse.io/commerceiq?gh_src=12206f5b3us&departments%5B%5D=4001695003&offices%5B%5D=4038653003
 
 CHUBB - https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions?lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000467203&sortBy=POSTING_DATES_DESC
