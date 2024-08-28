@@ -18,6 +18,8 @@ Dell - https://jobs.dell.com/en/search-jobs
 
 Qualcomm - https://app.eightfold.ai/careers?location=India&pid=446701230261&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true
 
+ibm- https://www.ibm.com/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_18[0]=Entry%20Level&field_keyword_18[1]=Intern&field_keyword_05[0]=India
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 # Company-Careers-Page
