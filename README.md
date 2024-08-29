@@ -1,12 +1,51 @@
-# MAANG-Company-Careers-Page
+# Linkedin Alert
+
+Filters: Zoho, Chargebee
+
+Filters: Flipkart
+
+Filters: Amazon
+
+Filters: Meta, Apple, Spotify, Google, Netflix
+
+Filters: JPMorganChase, J.P. Morgan
+
+Filters: AMD
+
+Filters: Atos
+
+Filters: Wipro
+
+Filters: Intuit
+
+Filters: Atlassian
+
+Filters: EY
+
+Filters: PayPal
+
+Filters: Elsevier
+
+Filters: Razorpay
+
+Filters: FIS
+
+Filters: Oracle
+
+Filters: Tata Consultancy Services
+
+Filters: Infosys
+
+Filters: Accenture in India
+
+Filters: Cisco
+
+--------------------------------------------------------------------------------------------------------------------------------
+# Premium-Company-Careers-Page
 
 Google - https://www.google.com/about/careers/applications/jobs/results?location=India
 
 Apple - https://jobs.apple.com/en-in/search?location=india-INDC
-
-
---------------------------------------------------------------------------------------------------------------------------------
-# Premium-Company-Careers-Page
 
 Cisco - https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B207928%5D&21178_format=6020&listFilterMode=1 
 
