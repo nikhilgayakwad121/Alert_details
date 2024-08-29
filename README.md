@@ -1,44 +1,45 @@
 # Linkedin Alert
 
-Filters: Zoho, Chargebee
 
-Filters: Flipkart
+1, Zoho, Chargebee
 
-Filters: Amazon
+2, Flipkart
 
-Filters: Meta, Apple, Spotify, Google, Netflix
+3,Amazon
 
-Filters: JPMorganChase, J.P. Morgan
+4,Meta, Apple, Spotify, Google, Netflix
 
-Filters: AMD
+5,JPMorganChase, J.P. Morgan
 
-Filters: Atos
+6,AMD
 
-Filters: Wipro
+7,Atos
 
-Filters: Intuit
+8,Wipro
 
-Filters: Atlassian
+9,Intuit
 
-Filters: EY
+10,Atlassian
 
-Filters: PayPal
+11,EY
 
-Filters: Elsevier
+12.PayPal
 
-Filters: Razorpay
+13,Elsevier
 
-Filters: FIS
+14,Razorpay
 
-Filters: Oracle
+15,FIS
 
-Filters: Tata Consultancy Services
+16,Oracle
 
-Filters: Infosys
+17,Tata Consultancy Services
 
-Filters: Accenture in India
+18,Infosys
 
-Filters: Cisco
+19,Accenture in India
+
+20, Cisco
 
 --------------------------------------------------------------------------------------------------------------------------------
 # Premium-Company-Careers-Page
