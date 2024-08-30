@@ -72,6 +72,8 @@ iqvia - https://jobs.iqvia.com/en/search-jobs/India/24443/2/1269750/22/79/50/2
 
 # Company-Careers-Page
 
+WSO2 - https://wso2.com/careers/#availableposition
+
 expediagroup - https://careers.expediagroup.com/jobs/?filter[category]=Technology&filter[country]=India
 
 LIV https://ltv.applytojob.com/apply/
