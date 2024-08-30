@@ -62,9 +62,17 @@ Qualcomm - https://app.eightfold.ai/careers?location=India&pid=446701230261&doma
 
 ibm- https://www.ibm.com/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_18[0]=Entry%20Level&field_keyword_18[1]=Intern&field_keyword_05[0]=India
 
+marsh mclennan - https://careers.marshmclennan.com/global/en/search-results?keywords=&s=1
+
+Netapp - https://careers.netapp.com/search-jobs/India?orgIds=27600&alp=1269750&alt=2
+
+iqvia - https://jobs.iqvia.com/en/search-jobs/India/24443/2/1269750/22/79/50/2
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 # Company-Careers-Page
+
+expediagroup - https://careers.expediagroup.com/jobs/?filter[category]=Technology&filter[country]=India
 
 LIV https://ltv.applytojob.com/apply/
 
@@ -80,8 +88,6 @@ Diligent - https://job-boards.greenhouse.io/diligentcorporation?offices%5B%5D=40
 
 icims - https://careers.icims.com/careers-home/jobs
 
-iqvia - https://jobs.iqvia.com/en/search-jobs/India/24443/2/1269750/22/79/50/2
-
 fyers - https://recruit.fyers.in/jobs/Careers
 
 Flexera - https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e
@@ -90,11 +96,7 @@ twinleaves - https://twinleaves.zohorecruit.in/jobs/Careers
 
 cigna - https://jobs.thecignagroup.com/us/en/search-results?keywords=India
 
-marsh mclennan - https://careers.marshmclennan.com/global/en/search-results?keywords=&s=1
-
 shipthis - https://shipthis.keka.com/careers/
-
-Netapp - https://careers.netapp.com/search-jobs/India?orgIds=27600&alp=1269750&alt=2
 
 verizon = https://mycareer.verizon.com/jobs/?country=India&pagesize=20#results
 
