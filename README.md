@@ -3,43 +3,43 @@
 
 # 1, Zoho, Chargebee
 
-2, Flipkart
+# 2, Flipkart
 
-3,Amazon
+# 3,Amazon
 
-4,Meta, Apple, Spotify, Google, Netflix
+# 4,Meta, Apple, Spotify, Google, Netflix
 
-5,JPMorganChase, J.P. Morgan
+# 5,JPMorganChase, J.P. Morgan
 
-6,AMD
+# 6,AMD
 
-7,Atos
+# 7,Atos
 
-8,Wipro
+# 8,Wipro
 
-9,Intuit
+# 9,Intuit
 
-10,Atlassian
+# 10,Atlassian
 
-11,EY
+# 11,EY
 
-12.PayPal
+# 12.PayPal
 
-13,Elsevier
+# 13,Elsevier
 
-14,Razorpay
+# 14,Razorpay
 
-15,FIS
+# 15,FIS
 
-16,Oracle
+# 16,Oracle
 
-17,Tata Consultancy Services
+# 17,Tata Consultancy Services
 
-18,Infosys
+# 18,Infosys
 
-19,Accenture in India
+# 19,Accenture in India
 
-20, Cisco
+# 20, Cisco
 
 --------------------------------------------------------------------------------------------------------------------------------
 # Premium-Company-Careers-Page
