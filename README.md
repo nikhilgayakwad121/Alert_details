@@ -67,11 +67,11 @@ Netapp - https://careers.netapp.com/search-jobs/India?orgIds=27600&alp=1269750&a
 
 iqvia - https://jobs.iqvia.com/en/search-jobs/India/24443/2/1269750/22/79/50/2
 
+WSO2 - https://wso2.com/careers/#availableposition
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 # Company-Careers-Page
-
-WSO2 - https://wso2.com/careers/#availableposition
 
 expediagroup - https://careers.expediagroup.com/jobs/?filter[category]=Technology&filter[country]=India
 
@@ -104,6 +104,8 @@ verizon = https://mycareer.verizon.com/jobs/?country=India&pagesize=20#results
 pinkerton - https://pinkerton.com/careers/current-openings
 
 toplyne - https://www.toplyne.io/join-us#Open-jobs-ashby
+
+fivetran - https://www.fivetran.com/careers#jobs
 
 scrut = https://scrut.freshteam.com/jobs?location=[]&department=[%222611%22]&jobType=[]&title=&isRemoteLocation=false
 
