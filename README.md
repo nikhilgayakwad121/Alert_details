@@ -1,10 +1,10 @@
 # Linkedin Alert
 
-# 1, Zoho, Chargebee
+## 1, Zoho, Chargebee
 
-# 2, Flipkart
+## 2, Flipkart
 
-# 3,Amazon
+## 3,Amazon
 
 # 4,Meta, Apple, Spotify, Google, Netflix
 
