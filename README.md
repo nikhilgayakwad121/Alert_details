@@ -55,6 +55,8 @@ stripe - https://stripe.com/jobs/search?remote_locations=Asia+Pacific--India+Rem
 
 phonepe - https://boards.greenhouse.io/phonepe
 
+amazon - https://amazonvirtualhiring.hirepro.in/registration/incta/ju0f4/openings/
+
 Dell - https://jobs.dell.com/en/search-jobs
 
 Qualcomm - https://app.eightfold.ai/careers?location=India&pid=446701230261&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true
@@ -71,11 +73,24 @@ WSO2 - https://wso2.com/careers/#availableposition
 
 johnsoncontrols - https://jobs.johnsoncontrols.com/job-search-results/?category=Engineering&location=India&country=IN&radius=25
 
+accenture - https://www.accenture.com/in-en/careers/jobsearch?jk=&sb=0&vw=0&is_rj=0&pg=1&sk=software%20engineering&jt=entry-level%20job
+
+wipro - https://careers.wipro.com/careers-home/jobs?stretchUnits=MILES&location=India&woe=12&stretchUnit=MILES&stretch=10&page=1
+
+infosys - https://career.infosys.com/joblist?companyhiringtype=IL&countrycode=IN
+
+motorolasolutions - https://motorolasolutions.wd5.myworkdayjobs.com/Careers?timeType=14bb6aa2c25e4a218b2a3faaa951e44c&jobFamilyGroup=2161bef685534428b91fad96fc9069b4&jobFamilyGroup=c3fc17b768e842e39b7192f0bf4cb0f1
+
+paypal - https://paypal.eightfold.ai/careers?location=any&pid=274901903830&domain=paypal.com&sort_by=relevance&hl=en&triggerGoButton=false
+
+hawkinscookers - https://www.hawkinscookers.com/job_openings.html
+
+anz - https://careers.anz.com/search
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 # Company-Careers-Page
 
-anz - https://careers.anz.com/search
 
 phenompeople - https://careers.phenompeople.com/us/en/search-results
 
