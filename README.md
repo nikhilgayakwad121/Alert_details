@@ -1,6 +1,6 @@
 # Linkedin Alert
 
-## 1, Zoho, Chargebee
+## 1, Cisco, walmart
 
 ## 2, Flipkart
 
@@ -38,7 +38,7 @@
 
 ## 19,Accenture in India
 
-## 20, Cisco
+## 20, Chargebee , Zoho
 
 --------------------------------------------------------------------------------------------------------------------------------
 # Premium-Company-Careers-Page
