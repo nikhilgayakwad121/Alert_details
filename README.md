@@ -2,9 +2,9 @@
 
 ## AMERICAN
 
-### 3, MAANG  -> Meta, Apple, Amazon, Netflix, Google.
+### 3, MAANG  -> Meta , Apple , Amazon , Netflix , Google.
 
-### 4, Product based US -> Spotify, Cisco, Walmart , Adobe , Intuit , EY , Elsevier
+### 4, Product based US -> Spotify , Cisco , Walmart , Adobe , Intuit , EY , Elsevier
 
 ### 5, Service based US -> J.P. Morgan , FIS , IBM , Oracle , Cognizant , Stripe
 
@@ -14,7 +14,7 @@
 
 ###  1, Product based -> Flipkart, Zoho , Razorpay
 
-###  2, Service based -> Infosys, TCS , Wipro, LTI, HCL, persistent, Tech mahindra, Mphasis, Chargebee
+###  2, Service based -> Infosys , TCS , Wipro , LTI , HCL , persistent , Tech mahindra , Mphasis , Chargebee
 
 --------------------------------------------------------------------------------------------------------------
 
