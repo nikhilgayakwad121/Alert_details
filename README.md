@@ -2,9 +2,9 @@
 
 ## INDIAN
 
-###  1, Product based -> Accenture, ibm, oracle, cognizant, capgemini, Flipkart, Zoho , Razorpay
+###  1, Product based -> Flipkart, Zoho , Razorpay
 
-###  2, Service based -> Infosys, TCS , Wipro, LTI, HCL, persistent, Tech mahindra, Mphasis, Chargebee, Zoho
+###  2, Service based -> Infosys, TCS , Wipro, LTI, HCL, persistent, Tech mahindra, Mphasis, Chargebee
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 
 ### 4, Product based US -> Spotify, Cisco, Walmart , Adobe , Intuit , EY , Elsevier
 
-### 5, Service based US -> J.P. Morgan , FIS
+### 5, Service based US -> J.P. Morgan , FIS , IBM , Oracle , Cognizant
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -22,10 +22,10 @@
 
 ### 6, Product based  -> Atlassian 
 
-### 7, Service based  -> Accenture , FIS ,Elsevier
+### 7, Service based  -> Accenture , FIS , Elsevier , Cognizant , Capgemini
 
 
---------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
 
 # Premium-Company-Careers-Page
 
