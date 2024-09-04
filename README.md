@@ -1,50 +1,32 @@
 # Linkedin Alert
 
+## INDIAN
 
+###  1, Product based -> Accenture, ibm, oracle, cognizant, capgemini, Flipkart, Zoho , Razorpay
 
-### 1,service based indian ->  Infosys, TCS , Wipro, LTI, HCL, persistent, Tech mahindra, Mphasis, Flipkart,
-
-## 2, Product based indian -> Accenture, ibm, oracle, cognizant, capgemini, 
+###  2, Service based -> Infosys, TCS , Wipro, LTI, HCL, persistent, Tech mahindra, Mphasis, Chargebee, Zoho
 
 --------------------------------------------------------------------------------------------------------------
 
-## 3, MAANG  ->  Meta, Apple, Amazon, Netflix, Google.
+## AMERICAN
 
-## 4, Product based US -> Meta, Apple, Spotify, Google, Netflix
+### 3, MAANG  -> Meta, Apple, Amazon, Netflix, Google.
 
-## 5,JPMorganChase, J.P. Morgan
+### 4, Product based US -> Spotify, Cisco, Walmart , Adobe , Intuit , EY , Elsevier
 
-## 6,AMD
+### 5, Service based US -> J.P. Morgan , FIS
 
-## 7,Atos
+--------------------------------------------------------------------------------------------------------------
 
-## 8,
+## OTHER
 
-## 9,Intuit
+### 6, Product based  -> Atlassian 
 
-## 10,Atlassian
+### 7, Service based  -> Accenture , FIS ,Elsevier
 
-## 11,EY
-
-## 12.PayPal
-
-## 13,Elsevier
-
-## 14,Razorpay
-
-## 15,FIS
-
-## 16,
-
-## 17,Cisco, walmart , adobe
-
-## 18,
-
-## 19, 
-
-## 20, Chargebee , Zoho
 
 --------------------------------------------------------------------------------------------------------------------------------
+
 # Premium-Company-Careers-Page
 
 Google - https://www.google.com/about/careers/applications/jobs/results?location=India
