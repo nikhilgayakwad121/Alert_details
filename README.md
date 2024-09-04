@@ -14,7 +14,7 @@
 
 ### 4, Product based US -> Spotify, Cisco, Walmart , Adobe , Intuit , EY , Elsevier
 
-### 5, Service based US -> J.P. Morgan , FIS , IBM , Oracle , Cognizant
+### 5, Service based US -> J.P. Morgan , FIS , IBM , Oracle , Cognizant , Stripe
 
 --------------------------------------------------------------------------------------------------------------
 
