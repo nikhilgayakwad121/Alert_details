@@ -1,12 +1,16 @@
 # Linkedin Alert
 
-## 1, Cisco, walmart , adobe
 
-## 2, Flipkart
 
-## 3,Amazon
+### 1,service based indian ->  Infosys, TCS , Wipro, LTI, HCL, persistent, Tech mahindra, Mphasis, Flipkart,
 
-## 4,Meta, Apple, Spotify, Google, Netflix
+## 2, Product based indian -> Accenture, ibm, oracle, cognizant, capgemini, 
+
+--------------------------------------------------------------------------------------------------------------
+
+## 3, MAANG  ->  Meta, Apple, Amazon, Netflix, Google.
+
+## 4, Product based US -> Meta, Apple, Spotify, Google, Netflix
 
 ## 5,JPMorganChase, J.P. Morgan
 
@@ -14,7 +18,7 @@
 
 ## 7,Atos
 
-## 8,Wipro
+## 8,
 
 ## 9,Intuit
 
@@ -30,13 +34,13 @@
 
 ## 15,FIS
 
-## 16,Oracle
+## 16,
 
-## 17,Tata Consultancy Services
+## 17,Cisco, walmart , adobe
 
-## 18,Infosys
+## 18,
 
-## 19,Accenture in India
+## 19, 
 
 ## 20, Chargebee , Zoho
 
