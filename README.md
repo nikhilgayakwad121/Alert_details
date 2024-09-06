@@ -1,6 +1,6 @@
 # Linkedin Alert
 
-## AMERICAN
+## AMERICAN  
 
 ### 3, MAANG  -> Meta , Apple , Amazon , Netflix , Google
 
