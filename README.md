@@ -1,4 +1,4 @@
-# LinkedIn Alert
+# LINKEDIN ALERT
 
 ## AMERICAN  
 
