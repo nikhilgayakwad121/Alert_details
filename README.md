@@ -2,7 +2,7 @@
 
 ## AMERICAN  
 
-### 3, MAANG  -> Meta , Apple , Amazon , Netflix , Google
+### 1, MAANG  -> Meta , Apple , Amazon , Netflix , Google
 
 ### 4, Product based US -> Spotify , Cisco , Walmart , Adobe , Intuit , EY , Elsevier
 
