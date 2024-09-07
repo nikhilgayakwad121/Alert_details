@@ -12,7 +12,7 @@
 
 ## INDIAN    
 
-###  4, Product based -> Flipkart, Zoho , Razorpay , Ola , Zomato ,
+###  4, Product based -> Flipkart, Zoho , Razorpay , Ola , Zomato 
 
 ###  5, Service based -> Infosys , TCS , Wipro , LTI , HCL , persistent , Tech mahindra , Mphasis , Chargebee
 
