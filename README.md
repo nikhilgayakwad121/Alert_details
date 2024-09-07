@@ -4,7 +4,7 @@
 
 ### 1, MAANG  -> Meta , Apple , Amazon , Netflix , Google
 
-### 2, Product based US -> Spotify , Cisco , Walmart , Adobe , Intuit , EY , Elsevier , paypal
+### 2, Product based US -> Spotify , Cisco , Walmart , Adobe , Intuit , EY , Elsevier , paypal , Uber 
 
 ### 3, Service based US -> J.P. Morgan , FIS , IBM , Oracle , Cognizant , Stripe
 
@@ -12,7 +12,7 @@
 
 ## INDIAN    
 
-###  4, Product based -> Flipkart, Zoho , Razorpay
+###  4, Product based -> Flipkart, Zoho , Razorpay , Ola , Zomato ,
 
 ###  5, Service based -> Infosys , TCS , Wipro , LTI , HCL , persistent , Tech mahindra , Mphasis , Chargebee
 
