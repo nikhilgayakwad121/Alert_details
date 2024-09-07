@@ -4,9 +4,9 @@
 
 ### 1, MAANG  -> Meta , Apple , Amazon , Netflix , Google
 
-### 2, Product based US -> Spotify , Cisco , Walmart , Adobe , Intuit , EY , Elsevier , paypal , Uber 
+### 2, Product based US -> Spotify , Cisco , Walmart , Adobe , Intuit , Stripe  , paypal , Uber 
 
-### 3, Service based US -> J.P. Morgan , FIS , IBM , Oracle , Cognizant , Stripe
+### 3, Service based US -> J.P. Morgan , FIS , IBM , Oracle , Cognizant , EY , Elsevier
 
 --------------------------------------------------------------------------------------------------------------
 
