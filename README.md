@@ -22,7 +22,7 @@
 
 ### 6, Product based  -> Atlassian 
 
-### 7, Service based  -> Accenture , FIS , Elsevier , Cognizant , Capgemini
+### 7, Service based  -> Accenture , FIS , Elsevier , Cognizant , Capgemini , Atos
 
 
 -------------------------------------------------------------------------------------------------------------
