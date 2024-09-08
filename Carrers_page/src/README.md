@@ -1,33 +1,4 @@
-# LinkedIn ALERT
-
-## AMERICAN  
-
-### 1, MAANG  -> Meta , Apple , Amazon , Netflix , Google
-
-### 2, Product based US -> Spotify , Cisco , Walmart , Adobe , Intuit , Stripe  , paypal , Uber 
-
-### 3, Service based US -> J.P. Morgan , FIS , IBM , Oracle , Cognizant , EY , Elsevier
-
---------------------------------------------------------------------------------------------------------------
-
-## INDIAN    
-
-###  4, Product based -> Flipkart, Zoho , Razorpay , Ola , Zomato 
-
-###  5, Service based -> Infosys , TCS , Wipro , LTI , HCL , persistent , Tech mahindra , Mphasis , Chargebee
-
---------------------------------------------------------------------------------------------------------------
-
-## OTHER 
-
-### 6, Product based  -> Atlassian 
-
-### 7, Service based  -> Accenture , capgemini  , Atos
-
-
--------------------------------------------------------------------------------------------------------------
-
-# Premium-Company-Careers-Page
+# P-Company-Careers-Page
 
 Google - https://www.google.com/about/careers/applications/jobs/results?location=India
 
